@@ -189,8 +189,12 @@ a {
 }
 
 .menu-item {
-    display: grid;
     position: relative;
+}
+
+.menu-item a {
+    display: block;
+    height: 100%;
 }
 
 .menu-item-caption {
