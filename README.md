@@ -1,14 +1,10 @@
 # Grid test
 
-Выполнил работу с помощью grid-layout (без flex-ов).
+- Исправил ошибки.
+- Сделал адаптинвую сетку для 425px.
 
-# Сравнение №1 в PerfectPixel
-![Сравнение №1 в PerfectPixel](pictures/comparison1.png)
+<br>
 
-# Сравнение №2 в PerfectPixel
-![Сравнение №2 в PerfectPixel](pictures/comparison2.png)
-
-# Проверка в validator.w3.org
-![Проверка в validator.w3.org](pictures/html-valid.png)
+![Адаптинвная сетка для 425px](pictures/425px.png)
 
 [Выполнил @SOSREBET](https://t.me/SOSREBET)
