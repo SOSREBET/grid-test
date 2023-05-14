@@ -1,6 +1,6 @@
 # Grid test
 
-> Работа с исправленными ошибками и адаптивной сеткой для 425px находится на ветке [adaptive](https://github.com/SOSREBET/grid_test/tree/adaptive).
+> Работа с исправленными ошибками и адаптивной сеткой для 425px находится на ветке [adaptive](https://github.com/SOSREBET/grid-test/tree/adaptive).
 
 <br>
 
